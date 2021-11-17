@@ -34,6 +34,8 @@ private void OnTreeView_ItemContextMenuOpening(object sender, ItemContextMenuOpe
 
 ![SContext Menu based on node level](ContextMenu.png)
 
+KB article - [How to open different ContextMenu for different levels of Nodes in WPF TreeView (SfTreeView)?](https://www.syncfusion.com/kb/12579/how-to-open-different-contextmenu-for-different-levels-of-nodes-in-wpf-treeview-sftreeview)
+
 ## Requirements to run the demo
 
 Visual Studio 2015 and above versions
